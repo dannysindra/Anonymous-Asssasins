@@ -1,6 +1,7 @@
-# Game7048
-A simple iOS game made with React-Native
+# Anonymous Assassins
+A simple and challenging Android & iOS game, made with React Native.
 
+## Installation
 1. Clone the project
 2. cd Game7048
 3. npm install
