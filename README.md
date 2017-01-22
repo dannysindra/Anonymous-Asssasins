@@ -8,3 +8,5 @@ A simple and challenging Android & iOS game, made with React Native.
 4. Build and run the project
 
 ![Alt text](/screenshots/1.png?raw=true "ScreenMenu")
+![Alt text](/screenshots/2.png?raw=true "ScreenGame")
+![Alt text](/screenshots/3.png?raw=true "ScreenEnd")
